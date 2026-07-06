@@ -1,0 +1,7 @@
+    cd user 
+npm -y init 
+npm i -g typescript
+npx tsc -init
+made changes in tsconfig.json or package.json
+npm i express dotenv mongoose
+npm i -D @types/express @types/mongoose @typesdotenv nodemon concurrently
